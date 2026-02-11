@@ -6,40 +6,13 @@ const manta = new MantaClient({ sdkKey: API_KEY });
 
 function JobList() {
   const [jobs, setJobs] = useState([]);
-  const [totalpages, setTotalPages] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [currentPage, setCurrentPage] = useState(1);
-
-  const isFirstPage = currentPage === 1;
-  const isLastPage = currentPage === totalpages;
-
-  function handleNextPage() {
-    setCurrentPage((prevPage) => prevPage + 1);
-  }
-
-  function handlePreviousPage() {
-    if (currentPage < 2) return;
-
-    setCurrentPage((prevPage) => prevPage - 1);
-  }
 
   useEffect(() => {
     async function fetchJobs() {
       try {
         setLoading(true);
-
-        const data = await manta.fetchAllRecords({
-          table: "jobs",
-          fields: ["title", "company", "location"],
-          page: currentPage,
-          list: 9,
-        });
-
-        console.log(data);
-        setJobs(data.data);
-        setTotalPages(data.meta.totalPages);
-        setError(null);
       } catch (error) {
         console.error(error);
         setError(error);
@@ -49,7 +22,7 @@ function JobList() {
     }
 
     fetchJobs();
-  }, [currentPage]);
+  }, []);
 
   return (
     <div className="jobs-container">
@@ -80,16 +53,10 @@ function JobList() {
       )}
       <br />
       <div className="page">
-        <p>
-          Page {currentPage} / {totalpages}
-        </p>
+        <p>Page 1 /</p>
         <div>
-          <button disabled={isFirstPage} onClick={handlePreviousPage}>
-            Previous page
-          </button>
-          <button disabled={isLastPage} onClick={handleNextPage}>
-            Next page
-          </button>
+          <button>Previous page</button>
+          <button>Next page</button>
         </div>
       </div>
     </div>
