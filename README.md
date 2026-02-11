@@ -2,6 +2,8 @@
 
 Jobber is a React job listing app that fetches live job records from a database on [MantaHQ](https://mantahq.com) and displays them in paginated cards.
 
+[Live link](https://jobber-psi.vercel.app/)
+
 ## Tech Stack
 
 - React 19
