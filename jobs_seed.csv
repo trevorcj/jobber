@@ -1,0 +1,201 @@
+title,company,location,salary_min,salary_max,tags,posted_at,is_featured
+Platform Engineer,Kuda,London,2450,6788,"Node.js,Next.js",2025-10-16T11:03:08.606968,True
+Data Engineer,Moniepoint,Nairobi,1783,3250,"TypeScript,Postgres,React,Next.js,Docker",2025-12-27T11:03:08.607296,False
+Software Engineer,Cowrywise,Accra,2467,4991,"React,AWS,Tailwind,TypeScript,Next.js",2025-10-21T11:03:08.607616,True
+UI Engineer,PayStack,Nairobi,2135,5684,"React,Docker,AWS,Redis",2025-12-07T11:03:08.607738,True
+Mobile App Developer,TechBridge,Abuja,1666,4040,"React,Next.js,TypeScript,AWS,Node.js",2025-10-22T11:03:08.608004,True
+Mobile App Developer,PiggyVest,London,2372,6050,"Node.js,Postgres",2025-11-30T11:03:08.608116,False
+Platform Engineer,Flutterwave,Nairobi,1629,3134,"Redis,React,AWS",2025-12-28T11:03:08.608222,False
+DevOps Engineer,PayStack,Toronto,2630,5040,"TypeScript,AWS",2026-01-04T11:03:08.608332,True
+Software Engineer,Kuda,Nairobi,2732,7290,"TypeScript,GraphQL",2025-12-27T11:03:08.608432,False
+Mobile App Developer,Kuda,Lagos,3251,6996,"AWS,React,Node.js,Postgres,TypeScript",2025-11-16T11:03:08.608554,False
+Platform Engineer,Kuda,Lagos,2549,4805,"Docker,TypeScript,React,Node.js,Redis",2025-12-09T11:03:08.608640,True
+Platform Engineer,PayStack,Toronto,2790,6842,"Postgres,Next.js,GraphQL,AWS",2025-12-15T11:03:08.608723,False
+Mobile App Developer,Flutterwave,Lagos,1652,3859,"TypeScript,Docker,Node.js,Tailwind,Postgres",2025-11-17T11:03:08.608802,True
+Frontend Developer,Kuda,Lagos,3868,6138,"Redis,Tailwind,Postgres,TypeScript",2025-10-24T11:03:08.608882,False
+React Developer,Moniepoint,Lagos,1655,4149,"Docker,Redis,React,GraphQL,Next.js",2025-12-16T11:03:08.608969,True
+Platform Engineer,Moniepoint,Remote,1730,3152,"GraphQL,TypeScript,Docker,React",2025-11-14T11:03:08.609048,True
+UI Engineer,Interswitch,Toronto,1775,4295,"React,Redis,Docker,Node.js",2025-12-28T11:03:08.609105,False
+React Developer,PiggyVest,Accra,3699,6447,"React,Node.js",2026-01-29T11:03:08.609378,False
+React Developer,Manta Labs,Remote,3577,7672,"Tailwind,Next.js,TypeScript",2025-12-11T11:03:08.609492,False
+Mobile App Developer,PayStack,Abuja,1917,6506,"AWS,TypeScript,Postgres",2026-01-10T11:03:08.609605,True
+Backend Engineer,Flutterwave,Toronto,3661,5812,"TypeScript,GraphQL",2026-01-17T11:03:08.609694,False
+Mobile App Developer,TechBridge,Remote,2977,5969,"GraphQL,TypeScript,Next.js",2025-12-05T11:03:08.609744,False
+DevOps Engineer,Manta Labs,Toronto,2069,5710,"Redis,Postgres,AWS",2025-10-26T11:03:08.609786,False
+Data Engineer,Andela,Abuja,3283,7903,"Tailwind,Redis,Postgres",2026-02-06T11:03:08.609860,True
+UI Engineer,Moniepoint,Accra,1918,3797,"Redis,Node.js,GraphQL",2025-12-11T11:03:08.609910,True
+DevOps Engineer,Moniepoint,Abuja,1731,4240,"Postgres,Tailwind,React,Docker",2025-11-11T11:03:08.609962,True
+Software Engineer,Manta Labs,London,3695,6495,"TypeScript,Tailwind",2025-10-22T11:03:08.610026,True
+React Developer,Kuda,Accra,3062,5870,"Docker,Postgres,React,GraphQL",2025-10-14T11:03:08.610093,False
+Data Engineer,PayStack,Toronto,3281,8272,"Docker,AWS,GraphQL",2026-02-08T11:03:08.610140,True
+Frontend Developer,Flutterwave,Abuja,2927,6366,"Postgres,AWS",2026-01-06T11:03:08.610353,False
+Mobile App Developer,Flutterwave,Nairobi,1855,5184,"GraphQL,Docker",2026-01-29T11:03:08.610423,False
+Frontend Developer,PiggyVest,Abuja,1988,5610,"Postgres,GraphQL,AWS",2026-02-01T11:03:08.610465,False
+DevOps Engineer,PiggyVest,Accra,3488,8357,"AWS,TypeScript,Postgres,Tailwind",2025-10-25T11:03:08.610513,True
+React Developer,Cowrywise,Nairobi,3109,7450,"AWS,Redis,React",2026-01-14T11:03:08.610551,False
+React Developer,Flutterwave,Accra,3240,7270,"Docker,Postgres,Redis",2026-01-05T11:03:08.610602,True
+Mobile App Developer,Interswitch,Toronto,3837,4919,"Tailwind,Docker,TypeScript,React",2025-12-07T11:03:08.610806,False
+UI Engineer,PayStack,Abuja,3609,4643,"Node.js,Next.js",2025-12-30T11:03:08.610943,False
+Mobile App Developer,TechBridge,Lagos,2345,6082,"GraphQL,TypeScript,Next.js",2026-01-03T11:03:08.611033,False
+Data Engineer,Cowrywise,Accra,3609,8597,"Docker,React,AWS,GraphQL",2026-02-03T11:03:08.611093,False
+DevOps Engineer,Andela,Toronto,3469,8173,"Redis,Docker,Node.js",2025-10-19T11:03:08.611165,False
+React Developer,Andela,Remote,2739,6644,"Next.js,React,Tailwind",2025-12-10T11:03:08.611229,True
+Backend Engineer,PiggyVest,Accra,1988,6416,"Docker,AWS",2025-11-07T11:03:08.611276,True
+Data Engineer,Manta Labs,Accra,1931,4458,"Tailwind,Node.js,GraphQL",2025-12-19T11:03:08.611351,True
+UI Engineer,Cowrywise,Nairobi,3708,8519,"Tailwind,Docker,GraphQL",2026-01-05T11:03:08.611427,False
+Frontend Developer,Flutterwave,Lagos,3163,5969,"Docker,AWS",2026-02-05T11:03:08.611498,True
+Mobile App Developer,Flutterwave,Remote,1900,5892,"AWS,Docker,Node.js,Redis,Tailwind",2026-01-09T11:03:08.611553,False
+DevOps Engineer,Moniepoint,Accra,1904,6616,"AWS,React,GraphQL,Docker,Node.js",2025-12-05T11:03:08.611582,True
+Frontend Developer,Interswitch,Lagos,3724,6941,"Postgres,AWS,Tailwind,Docker",2025-12-28T11:03:08.611639,True
+Mobile App Developer,PayStack,Abuja,2146,4970,"Tailwind,AWS,Postgres,Node.js,Next.js",2025-10-14T11:03:08.611676,False
+Data Engineer,Interswitch,Nairobi,1695,3808,"GraphQL,Docker,TypeScript,Tailwind",2025-10-21T11:03:08.611752,False
+Software Engineer,Kuda,Nairobi,2256,6649,"Tailwind,React,AWS,Docker,Next.js",2025-10-19T11:03:08.611780,False
+UI Engineer,Andela,Abuja,1515,2873,"Next.js,Redis,React",2025-12-21T11:03:08.611830,False
+Platform Engineer,PayStack,London,3321,4739,"Docker,React",2025-12-29T11:03:08.611881,True
+DevOps Engineer,Interswitch,Lagos,1859,5308,"Postgres,AWS,GraphQL,React",2026-01-22T11:03:08.611939,True
+DevOps Engineer,Kuda,Remote,2159,4047,"Postgres,Docker,Tailwind,TypeScript,AWS",2026-02-05T11:03:08.612171,False
+Mobile App Developer,Moniepoint,Accra,1538,6334,"Redis,GraphQL,Tailwind,Node.js",2026-02-04T11:03:08.612261,True
+React Developer,PayStack,Remote,3777,7334,"GraphQL,Docker,AWS",2025-10-15T11:03:08.612322,False
+Fullstack Developer,TechBridge,London,2590,7012,"Node.js,GraphQL,AWS,Tailwind,React",2025-11-08T11:03:08.612390,False
+Backend Engineer,Andela,Abuja,2103,6632,"GraphQL,Next.js,Tailwind,Postgres,Docker",2026-01-10T11:03:08.612499,False
+Software Engineer,Kuda,Remote,1624,5345,"Tailwind,Next.js",2025-10-13T11:03:08.612682,True
+React Developer,PayStack,Accra,2106,6562,"Node.js,Redis",2025-11-11T11:03:08.612888,True
+Fullstack Developer,Kuda,Accra,1776,4945,"Redis,Node.js",2025-12-04T11:03:08.612963,False
+Fullstack Developer,Interswitch,Lagos,3773,5408,"Next.js,React",2025-10-30T11:03:08.612998,False
+Software Engineer,PayStack,Lagos,2922,4650,"Node.js,Tailwind,Redis",2025-10-15T11:03:08.613073,False
+Backend Engineer,Kuda,Nairobi,2980,6587,"Redis,Docker,AWS",2025-12-10T11:03:08.613300,False
+React Developer,TechBridge,Toronto,3932,7811,"Next.js,Node.js,Tailwind,TypeScript",2026-02-07T11:03:08.613521,False
+Fullstack Developer,Andela,Lagos,3358,7569,"Postgres,Next.js",2026-01-17T11:03:08.613632,True
+Backend Engineer,PiggyVest,Nairobi,3753,7407,"Postgres,Redis,GraphQL,Tailwind,AWS",2025-11-01T11:03:08.613699,True
+UI Engineer,Manta Labs,Accra,3063,4700,"React,GraphQL,TypeScript,AWS",2025-10-23T11:03:08.613904,False
+Fullstack Developer,Kuda,Abuja,1721,6576,"GraphQL,Node.js,Postgres,React,AWS",2025-11-28T11:03:08.614097,True
+React Developer,PayStack,Accra,3724,7299,"Node.js,Postgres,Next.js",2025-12-30T11:03:08.614226,False
+DevOps Engineer,Cowrywise,Lagos,3564,6671,"Next.js,GraphQL,AWS,Node.js,React",2025-11-12T11:03:08.614448,True
+Backend Engineer,Manta Labs,Accra,3290,7724,"Postgres,GraphQL,Node.js,React",2026-01-18T11:03:08.614635,True
+Data Engineer,Flutterwave,Abuja,3638,5725,"Node.js,Tailwind,React,Docker,Postgres",2025-12-04T11:03:08.614831,True
+Mobile App Developer,Andela,Accra,3093,7995,"TypeScript,React,Node.js,GraphQL,Tailwind",2026-01-25T11:03:08.614960,False
+React Developer,Manta Labs,Nairobi,3644,5396,"Postgres,TypeScript",2026-02-10T11:03:08.615028,True
+Fullstack Developer,Manta Labs,Lagos,3619,7969,"Redis,Tailwind",2026-01-18T11:03:08.615087,False
+Frontend Developer,PiggyVest,Abuja,3275,4560,"Redis,Node.js,Next.js",2025-11-09T11:03:08.615131,False
+Data Engineer,Moniepoint,London,2830,6360,"Postgres,Tailwind,React,GraphQL",2026-01-24T11:03:08.615173,False
+DevOps Engineer,PiggyVest,Remote,1704,3548,"Node.js,Redis,GraphQL",2025-11-14T11:03:08.615218,False
+UI Engineer,Cowrywise,Remote,2733,6669,"TypeScript,AWS,Tailwind,Postgres,Next.js",2025-11-14T11:03:08.615256,False
+UI Engineer,PayStack,Toronto,1588,6185,"Postgres,Node.js,Next.js,React,TypeScript",2025-11-22T11:03:08.615337,False
+Backend Engineer,Moniepoint,Nairobi,3383,7645,"GraphQL,Node.js,Docker",2025-10-26T11:03:08.615399,False
+UI Engineer,Flutterwave,Remote,2761,4722,"Tailwind,GraphQL,TypeScript,AWS",2026-01-07T11:03:08.615487,False
+Data Engineer,Moniepoint,Nairobi,2918,5195,"TypeScript,GraphQL",2025-11-24T11:03:08.615564,False
+UI Engineer,Cowrywise,Nairobi,3196,4433,"Node.js,Next.js,Redis",2025-12-27T11:03:08.615605,True
+React Developer,Manta Labs,Nairobi,3226,7201,"TypeScript,GraphQL,Next.js,AWS,Postgres",2025-11-02T11:03:08.615780,False
+Fullstack Developer,Moniepoint,Abuja,2225,4809,"Postgres,Tailwind,Node.js",2025-12-26T11:03:08.615875,False
+Software Engineer,PayStack,Toronto,2611,7068,"Next.js,Redis,GraphQL",2026-01-07T11:03:08.615965,False
+Frontend Developer,PiggyVest,London,1872,4950,"Next.js,AWS,Redis,Docker,Node.js",2026-01-22T11:03:08.616049,True
+Fullstack Developer,TechBridge,Lagos,2735,6276,"GraphQL,React",2025-12-02T11:03:08.616133,True
+Fullstack Developer,Interswitch,Accra,3287,6491,"Node.js,GraphQL,React",2026-02-05T11:03:08.616208,True
+UI Engineer,TechBridge,Remote,3893,5848,"Node.js,Tailwind,AWS",2026-01-27T11:03:08.616270,False
+Data Engineer,Manta Labs,Lagos,3675,6475,"AWS,Next.js,React",2026-01-05T11:03:08.616344,True
+Frontend Developer,Kuda,Toronto,3080,5417,"Docker,AWS,Postgres,Redis",2026-01-16T11:03:08.616402,False
+Platform Engineer,PayStack,London,3668,8255,"Docker,Tailwind,Postgres",2025-12-14T11:03:08.616456,True
+Frontend Developer,PayStack,Abuja,2334,4074,"TypeScript,Tailwind,Postgres,Next.js",2025-10-25T11:03:08.616533,True
+Mobile App Developer,PayStack,Accra,3412,4724,"Redis,Next.js,AWS",2025-12-12T11:03:08.616594,True
+Backend Engineer,Cowrywise,Toronto,2381,3700,"Node.js,Tailwind",2025-10-15T11:03:08.616701,False
+Frontend Developer,Flutterwave,London,3528,7122,"AWS,Redis",2025-10-14T11:03:08.616771,True
+React Developer,Moniepoint,Nairobi,3454,7943,"Next.js,GraphQL",2025-10-15T11:03:08.616842,False
+Data Engineer,TechBridge,Lagos,3707,7740,"React,GraphQL,Redis,Docker",2026-01-07T11:03:08.617000,True
+Platform Engineer,Moniepoint,Lagos,3777,8478,"Tailwind,TypeScript,Redis,AWS",2025-10-21T11:03:08.617098,True
+Frontend Developer,Andela,Remote,2526,5778,"Postgres,TypeScript,Node.js,AWS",2026-01-22T11:03:08.617159,False
+Fullstack Developer,Interswitch,Abuja,1646,3252,"Redis,TypeScript,Node.js,Postgres",2026-01-14T11:03:08.617211,True
+Data Engineer,Manta Labs,Abuja,3268,6594,"Docker,Node.js,Redis,React,TypeScript",2025-12-28T11:03:08.617247,False
+Platform Engineer,TechBridge,Remote,1686,5773,"Docker,Redis,GraphQL",2025-11-15T11:03:08.617287,True
+Backend Engineer,PiggyVest,Accra,2392,6932,"Next.js,AWS,Redis",2025-11-28T11:03:08.617350,False
+Backend Engineer,Manta Labs,London,3496,6489,"Node.js,TypeScript,Docker,GraphQL",2025-12-05T11:03:08.617402,True
+React Developer,Moniepoint,Remote,2506,5774,"Postgres,AWS,TypeScript,Redis,Docker",2025-11-10T11:03:08.617455,True
+Data Engineer,Andela,Accra,2251,7179,"React,Node.js,TypeScript,Tailwind,Redis",2025-11-02T11:03:08.617505,False
+UI Engineer,Cowrywise,Abuja,3189,4543,"AWS,React",2026-01-08T11:03:08.617528,False
+DevOps Engineer,Interswitch,Remote,3267,7348,"Redis,AWS,React,Next.js,Node.js",2025-11-24T11:03:08.617550,True
+DevOps Engineer,Manta Labs,Toronto,1782,5184,"GraphQL,Node.js,Postgres,AWS,React",2026-01-06T11:03:08.617571,False
+Fullstack Developer,Flutterwave,Remote,2585,4480,"AWS,GraphQL,Next.js,Redis",2026-01-15T11:03:08.617734,True
+Frontend Developer,Andela,Toronto,3491,7842,"Next.js,React",2025-11-30T11:03:08.617894,False
+Fullstack Developer,Moniepoint,Abuja,2611,6302,"Docker,Next.js,Postgres,GraphQL,React",2025-12-26T11:03:08.618128,False
+DevOps Engineer,PiggyVest,Nairobi,1666,4274,"GraphQL,AWS",2026-01-18T11:03:08.618225,True
+UI Engineer,TechBridge,Remote,2168,6989,"Docker,Tailwind,Node.js",2026-01-11T11:03:08.618287,False
+Backend Engineer,Moniepoint,Nairobi,3897,7371,"Postgres,Docker,Redis,Node.js",2025-10-23T11:03:08.618340,True
+Platform Engineer,PayStack,London,2341,4430,"Postgres,AWS,Tailwind,Next.js",2025-12-06T11:03:08.618378,False
+DevOps Engineer,TechBridge,Lagos,3892,5607,"GraphQL,Docker,Redis,AWS,Next.js",2026-01-20T11:03:08.618448,False
+React Developer,TechBridge,Lagos,2615,6543,"React,Tailwind,Next.js,GraphQL",2025-11-27T11:03:08.618515,False
+Mobile App Developer,PayStack,Nairobi,3799,6500,"GraphQL,Redis,Next.js,Docker",2025-11-19T11:03:08.618596,True
+DevOps Engineer,Flutterwave,Accra,1974,4593,"Node.js,AWS",2026-02-01T11:03:08.618663,True
+Backend Engineer,TechBridge,Accra,2174,3710,"Next.js,React,TypeScript,Tailwind,Docker",2025-12-20T11:03:08.618828,False
+Frontend Developer,PayStack,Lagos,2803,5141,"React,Next.js,TypeScript",2025-12-01T11:03:08.618931,False
+Fullstack Developer,TechBridge,Lagos,1758,5988,"Redis,Tailwind",2025-11-08T11:03:08.619014,True
+UI Engineer,Cowrywise,Toronto,2563,5648,"React,TypeScript,Next.js,Redis",2025-10-19T11:03:08.619081,False
+Backend Engineer,Andela,Lagos,3335,6924,"Tailwind,GraphQL,React,Next.js,Postgres",2025-11-23T11:03:08.619146,False
+Frontend Developer,Moniepoint,Abuja,2696,3966,"TypeScript,Docker,Next.js",2025-11-03T11:03:08.619288,True
+Software Engineer,Kuda,Lagos,3634,7862,"AWS,Tailwind,Node.js",2026-01-06T11:03:08.619418,False
+DevOps Engineer,Moniepoint,Lagos,3137,6063,"AWS,Tailwind,GraphQL,Redis,TypeScript",2025-12-16T11:03:08.619542,False
+Data Engineer,Cowrywise,Remote,3930,8596,"TypeScript,Node.js",2025-11-24T11:03:08.619619,True
+Frontend Developer,Manta Labs,Abuja,2956,6451,"GraphQL,React",2026-01-05T11:03:08.619683,False
+Backend Engineer,Moniepoint,Accra,3176,6538,"TypeScript,GraphQL,React",2026-02-05T11:03:08.619754,False
+Mobile App Developer,Moniepoint,Toronto,3114,5342,"Redis,React,TypeScript,Tailwind",2026-01-01T11:03:08.619821,False
+Frontend Developer,Cowrywise,Lagos,2093,6169,"TypeScript,Next.js,Postgres,Node.js",2025-11-19T11:03:08.619892,True
+Mobile App Developer,Interswitch,Abuja,2116,6054,"Tailwind,TypeScript",2025-12-10T11:03:08.619927,True
+DevOps Engineer,TechBridge,Remote,2957,5864,"Next.js,Node.js,Tailwind",2025-12-22T11:03:08.619953,False
+Data Engineer,Moniepoint,Remote,3114,6051,"Node.js,AWS,Docker,GraphQL,TypeScript",2025-11-18T11:03:08.620156,False
+Mobile App Developer,Moniepoint,Lagos,2458,4865,"Node.js,Tailwind,Redis,AWS",2025-11-10T11:03:08.620331,True
+Data Engineer,Manta Labs,Nairobi,3314,5977,"AWS,Next.js",2026-01-06T11:03:08.620577,True
+Fullstack Developer,Kuda,London,2120,3168,"Next.js,Node.js,React,Redis,GraphQL",2026-02-04T11:03:08.620705,True
+Data Engineer,PayStack,Toronto,2547,6899,"Next.js,React,Tailwind,GraphQL",2025-12-03T11:03:08.620784,True
+Software Engineer,TechBridge,Nairobi,3631,8601,"Tailwind,TypeScript,Redis",2026-01-22T11:03:08.620855,True
+Mobile App Developer,Interswitch,Accra,2863,6931,"Tailwind,TypeScript,GraphQL",2025-12-14T11:03:08.620920,False
+Platform Engineer,Manta Labs,Toronto,3380,7373,"React,Redis",2025-12-04T11:03:08.620979,True
+Platform Engineer,Cowrywise,Lagos,3488,5070,"Docker,AWS,TypeScript,React",2025-11-02T11:03:08.621198,True
+Mobile App Developer,PayStack,Toronto,2560,6557,"Postgres,Docker",2025-11-23T11:03:08.621300,False
+Software Engineer,Manta Labs,Nairobi,2838,7559,"Redis,TypeScript",2025-10-22T11:03:08.621365,False
+UI Engineer,Interswitch,London,1519,5644,"GraphQL,AWS,Postgres",2025-11-23T11:03:08.621545,False
+Fullstack Developer,Interswitch,London,1775,4660,"Docker,AWS,Node.js,Redis,TypeScript",2026-02-05T11:03:08.621632,True
+DevOps Engineer,Interswitch,Nairobi,2622,5971,"Node.js,TypeScript,GraphQL",2025-12-24T11:03:08.621684,True
+DevOps Engineer,Interswitch,Lagos,2133,3715,"Postgres,Node.js,Next.js,AWS",2026-01-19T11:03:08.622093,False
+Platform Engineer,Andela,Abuja,2343,5849,"Next.js,React,Postgres,Docker",2025-11-18T11:03:08.622445,False
+UI Engineer,Kuda,London,3930,7688,"TypeScript,Postgres,Docker,GraphQL",2025-10-27T11:03:08.622561,True
+Frontend Developer,Interswitch,London,1859,5515,"Redis,GraphQL",2025-12-31T11:03:08.622655,False
+DevOps Engineer,Moniepoint,Abuja,2935,4113,"AWS,GraphQL,React,Docker,Tailwind",2026-01-05T11:03:08.623121,False
+Software Engineer,PayStack,Remote,3333,6678,"Tailwind,Redis",2026-02-05T11:03:08.623219,False
+Data Engineer,Kuda,Toronto,2857,6275,"Postgres,Docker,React,AWS",2025-12-07T11:03:08.623342,True
+Software Engineer,PayStack,Nairobi,3575,6247,"Docker,Next.js",2025-12-17T11:03:08.623530,False
+Fullstack Developer,Andela,Lagos,2074,5181,"Docker,Node.js,AWS,GraphQL",2026-01-14T11:03:08.623620,True
+DevOps Engineer,Flutterwave,Remote,2965,5127,"Tailwind,AWS,Next.js,Postgres",2025-10-16T11:03:08.623691,False
+Data Engineer,TechBridge,Toronto,2457,4518,"TypeScript,AWS,Redis,Tailwind,React",2025-11-25T11:03:08.623756,False
+UI Engineer,Andela,Remote,3699,5105,"Tailwind,Docker,AWS,Postgres",2025-12-10T11:03:08.623819,True
+DevOps Engineer,Manta Labs,Lagos,3383,7763,"AWS,React,Postgres,Node.js,Redis",2025-12-26T11:03:08.624282,False
+Frontend Developer,Moniepoint,Remote,2865,4897,"Redis,Node.js",2026-01-01T11:03:08.624423,True
+Frontend Developer,PiggyVest,Toronto,2755,7282,"Next.js,Node.js",2025-11-12T11:03:08.624684,True
+Backend Engineer,Interswitch,Remote,3832,5954,"Node.js,Next.js,Tailwind,TypeScript",2026-02-07T11:03:08.624757,False
+Data Engineer,Interswitch,Remote,1595,5734,"Redis,Postgres,React,Tailwind",2025-12-08T11:03:08.624834,True
+UI Engineer,Manta Labs,Lagos,1747,5996,"TypeScript,Next.js,React,Postgres,Node.js",2025-12-24T11:03:08.624882,True
+Software Engineer,Andela,Nairobi,2932,6838,"GraphQL,Next.js,Node.js,AWS",2025-10-28T11:03:08.624946,True
+Mobile App Developer,Manta Labs,Remote,2872,5682,"Redis,Postgres",2025-10-24T11:03:08.625034,True
+Frontend Developer,Kuda,Nairobi,2601,4985,"TypeScript,Tailwind,AWS,Postgres",2026-02-05T11:03:08.625213,True
+UI Engineer,Flutterwave,Remote,3166,6392,"Node.js,React,GraphQL,Postgres,Redis",2025-11-03T11:03:08.625640,False
+DevOps Engineer,Moniepoint,Toronto,2259,4423,"Tailwind,React,TypeScript",2026-01-23T11:03:08.625716,True
+DevOps Engineer,Manta Labs,London,2324,6551,"Postgres,Node.js,AWS,Redis",2026-01-21T11:03:08.625776,False
+Fullstack Developer,Moniepoint,Toronto,2022,5757,"Docker,GraphQL",2025-12-15T11:03:08.625937,True
+DevOps Engineer,Manta Labs,Lagos,2020,5498,"AWS,Next.js,Docker,Postgres,Node.js",2026-02-07T11:03:08.626063,True
+UI Engineer,Kuda,London,2245,4722,"AWS,Docker,Redis,Next.js,TypeScript",2026-01-20T11:03:08.626122,False
+Backend Engineer,Kuda,Abuja,2832,5122,"Docker,Node.js,TypeScript",2026-01-29T11:03:08.626216,False
+DevOps Engineer,Flutterwave,Lagos,3597,7906,"React,TypeScript,Redis",2026-02-10T11:03:08.626280,False
+Frontend Developer,PiggyVest,Lagos,2701,7082,"Docker,TypeScript,GraphQL",2026-01-06T11:03:08.626328,True
+Software Engineer,Cowrywise,Remote,3665,4831,"AWS,Next.js",2025-11-25T11:03:08.626368,False
+Fullstack Developer,Manta Labs,London,2837,6351,"GraphQL,Next.js",2025-10-31T11:03:08.626394,False
+UI Engineer,Interswitch,Remote,3946,5678,"TypeScript,Tailwind,Docker,Node.js,Redis",2026-01-24T11:03:08.626427,False
+Software Engineer,PiggyVest,Toronto,1701,3400,"TypeScript,Docker,AWS,Postgres",2025-12-04T11:03:08.626451,True
+Platform Engineer,Manta Labs,London,1824,6613,"Postgres,Tailwind,Docker,React",2025-12-05T11:03:08.626474,False
+UI Engineer,Interswitch,Remote,1714,3704,"Next.js,Docker,AWS",2025-11-02T11:03:08.626612,False
+Platform Engineer,Flutterwave,Remote,2856,5355,"Tailwind,Docker",2026-01-24T11:03:08.626809,True
+Fullstack Developer,PayStack,Accra,2516,4040,"AWS,Next.js",2026-01-08T11:03:08.626992,True
+Fullstack Developer,Interswitch,Lagos,3807,6019,"GraphQL,Node.js,Redis,Tailwind,AWS",2025-12-13T11:03:08.627095,False
+Frontend Developer,Interswitch,Remote,1671,5414,"GraphQL,AWS",2026-01-15T11:03:08.627171,False
+Platform Engineer,Interswitch,London,1665,3454,"Docker,Postgres",2026-01-11T11:03:08.627262,True
+React Developer,Andela,Toronto,3741,6334,"GraphQL,TypeScript,Next.js,Node.js",2025-11-20T11:03:08.627318,False
+Fullstack Developer,TechBridge,Nairobi,1966,5693,"AWS,Docker",2025-11-01T11:03:08.627405,True
+UI Engineer,Moniepoint,Toronto,3025,4275,"Tailwind,AWS,Node.js,Next.js",2026-01-14T11:03:08.627477,True
+Software Engineer,Flutterwave,Abuja,1552,6191,"AWS,GraphQL,TypeScript,Redis",2025-12-08T11:03:08.627583,True
+Platform Engineer,Kuda,Toronto,2016,5071,"AWS,Docker",2026-02-10T11:03:08.627650,False

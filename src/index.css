@@ -1,0 +1,153 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+/* Job list styles */
+.jobs-container {
+  max-width: 980px;
+  margin: 28px auto;
+  padding: 20px;
+}
+
+.jobs-header h2 {
+  font-size: 1.5rem;
+  margin-bottom: 4px;
+  color: #0f172a;
+}
+
+.jobs-sub {
+  color: #475569;
+  font-size: 0.95rem;
+  margin-bottom: 16px;
+}
+
+.job-list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 14px;
+}
+
+.job-item {
+  background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%);
+  border: 1px solid #e6eef8;
+  padding: 14px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 110px;
+  box-shadow: 0 6px 18px rgba(9, 30, 66, 0.04);
+  transition:
+    transform 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.job-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 30px rgba(9, 30, 66, 0.08);
+}
+
+.job-title {
+  font-size: 1.05rem;
+  color: #0f172a;
+  margin-bottom: 6px;
+}
+
+.job-company {
+  color: #475569;
+  font-size: 0.9rem;
+}
+
+.job-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 12px;
+}
+
+.job-location {
+  font-size: 0.85rem;
+  color: #64748b;
+}
+
+.apply-btn {
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.apply-btn:hover {
+  background: #1e4ed8;
+}
+
+.jobs-loading,
+.jobs-error,
+.jobs-empty {
+  color: #475569;
+  padding: 12px 0;
+}
+
+/* App-level styles to match job list */
+.app-container {
+  max-width: 980px;
+  margin: 28px auto;
+  padding: 20px;
+}
+
+.app-header {
+  background: transparent;
+  padding: 6px 0 12px;
+}
+
+.app-header h1 {
+  font-size: 2rem;
+  color: #0b1220;
+  line-height: 1.05;
+  margin-bottom: 6px;
+  letter-spacing: -0.02em;
+}
+
+.app-header span {
+  color: #1e4ed8;
+  /* font-size: 1rem; */
+}
+
+/* Make the page background subtle to lift cards */
+body {
+  background: #f7f9fc;
+  color: #0f172a;
+}
+
+.page {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.page button {
+  color: #fff;
+  border: none;
+  background-color: #0b1220;
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.page button:disabled {
+  background-color: #cbd5e1;
+  cursor: not-allowed;
+}
+
+.page div {
+  display: flex;
+  gap: 10px;
+}
