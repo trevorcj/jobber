@@ -1,16 +1,68 @@
-# React + Vite
+# Jobber
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Jobber is a React job listing app that fetches live job records from a database on [MantaHQ](https://mantahq.com) and displays them in paginated cards.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React 19
+- MantaHQ SDK (`mantahq-sdk`)
+- CSS
 
-## React Compiler
+## Current Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Fetches jobs from MantaHQ (`jobs` table)
+- Displays job cards with:
+  - Title
+  - Company
+  - Location
+- Loading, error, and empty states
+- Pagination controls (previous/next page)
 
-## Expanding the ESLint configuration
+## Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```text
+src/
+  App.jsx
+  index.css
+  components/
+    JobList.jsx
+jobs_seed.csv     <- data source
+```
+
+## Getting Started
+
+### 1. Install dependencies
+
+```bash
+npm install
+```
+
+### 2. Configure environment variables
+
+Create a `.env` file in the project root:
+
+```env
+VITE_MANTAHQ_API_KEY=your_api_key_here
+```
+
+Don't have an API key? [Get your API key](https://docs.mantahq.com/quickstart)
+
+### 3. Run the app
+
+```bash
+npm run dev
+```
+
+The app will run locally (typically at `http://localhost:5173`).
+
+## Future Features
+
+1. Working on the interface design
+2. Working on the job cards
+3. Adding search and filtering
+4. Adding an admin dashboard
+
+## Notes
+
+- The app expects a `jobs` table in MantaHQ.
+- Required fields currently used: `title`, `company`, `location`.
