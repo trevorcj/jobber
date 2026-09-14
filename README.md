@@ -3,7 +3,9 @@
 Jobber is a job listing app built with React that fetches live job records from a database on [MantaHQ](https://mantahq.com) and displays them in paginated cards.
 [Live link](https://jobber-psi.vercel.app/)
 
-Built for a YouTube video: [https://youtu.be/I7I2f9zO9Dg?si=vYrglsMhv7OL9axd](Watch on YouTube)
+Built for a YouTube video for Manta: 
+
+[Watch on YouTube](https://youtu.be/I7I2f9zO9Dg?si=vYrglsMhv7OL9axd)
 
 ## Tech Stack
 
